@@ -9,6 +9,7 @@
 - pandas
 - numpy
 - matplotlib
+- seaborn
 - RFM-сегментация
 - анализ бизнес показателей
 
